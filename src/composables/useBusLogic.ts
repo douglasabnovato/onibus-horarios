@@ -26,7 +26,7 @@ export function useBusLogic() {
     const dayOfWeek = now.value.getDay(); // 0 = Domingo, 1-5 = Úteis, 6 = Sábado
 
     const isSunday = dayOfWeek === 0;
-    const isSaturday = dayOfWeek === 6;
+    //const isSaturday = dayOfWeek === 6;
 
     // 1. Filtrar horários válidos para o dia de hoje
     const availableTimes = direction.times
