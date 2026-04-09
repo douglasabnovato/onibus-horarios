@@ -1,0 +1,25 @@
+{
+  "name": "ônibus horários",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "4.5.0",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.9",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.14",
+    "vite-plugin-pwa": "^0.19.8",
+    "vitest": "^4.1.4",
+    "vue-tsc": "^3.2.6"
+  }
+}

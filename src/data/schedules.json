@@ -1,0 +1,67 @@
+{
+  "routes": [
+    {
+      "via": "Bicas",
+      "directions": [
+        {
+          "from": "S. João",
+          "to": "Juiz de Fora",
+          "times": [
+            { "hour": "05:10", "days": "seg-sab" },
+            { "hour": "06:10", "days": "diario" },
+            { "hour": "07:30", "days": "diario" },
+            { "hour": "09:30", "days": "diario" },
+            { "hour": "10:30", "days": "diario" },
+            { "hour": "13:00", "days": "diario" },
+            { "hour": "15:10", "days": "seg-sab" },
+            { "hour": "16:00", "days": "diario" },
+            { "hour": "17:00", "days": "dom-fer" },
+            { "hour": "18:00", "days": "diario" }
+          ]
+        },
+        {
+          "from": "Juiz de Fora",
+          "to": "S. João",
+          "times": [
+            { "hour": "06:30", "days": "diario" },
+            { "hour": "08:15", "days": "diario" },
+            { "hour": "10:15", "days": "diario" },
+            { "hour": "11:45", "days": "seg-sab" },
+            { "hour": "13:00", "days": "diario" },
+            { "hour": "15:00", "days": "diario" },
+            { "hour": "16:45", "days": "diario" },
+            { "hour": "17:45", "days": "seg-sab" },
+            { "hour": "19:15", "days": "dom-fer" },
+            { "hour": "19:45", "days": "diario" }
+          ]
+        }
+      ]
+    },
+    {
+      "via": "R. Novo",
+      "directions": [
+        {
+          "from": "S. João",
+          "to": "Juiz de Fora",
+          "times": [
+            { "hour": "05:50", "days": "diario" },
+            { "hour": "08:35", "days": "diario" },
+            { "hour": "14:45", "days": "diario" },
+            { "hour": "17:15", "days": "seg-sab" },
+            { "hour": "18:15", "days": "dom-fer" }
+          ]
+        },
+        {
+          "from": "Juiz de Fora",
+          "to": "S. João",
+          "times": [
+            { "hour": "05:30", "days": "diario" },
+            { "hour": "09:15", "days": "diario" },
+            { "hour": "14:30", "days": "diario" },
+            { "hour": "18:30", "days": "diario" }
+          ]
+        }
+      ]
+    }
+  ]
+}
