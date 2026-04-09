@@ -4,6 +4,8 @@
 
 O **BusReady** é um Web App mobile-first projetado para passageiros da linha S. João Nepomuceno x Juiz de Fora. Ele resolve o problema de saber exatamente quanto tempo falta para o próximo ônibus, mesmo em condições de baixa conectividade.
 
+![Tela-1](./assets/onibus-horarios.jpg)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
